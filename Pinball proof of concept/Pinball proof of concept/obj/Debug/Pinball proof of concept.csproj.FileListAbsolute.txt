@@ -1,0 +1,10 @@
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\bin\Debug\Pinball proof of concept.exe.config
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\bin\Debug\Pinball proof of concept.exe
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\bin\Debug\Pinball proof of concept.pdb
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\obj\Debug\Pinball proof of concept.csprojAssemblyReference.cache
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\obj\Debug\Pinball_proof_of_concept.Form1.resources
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\obj\Debug\Pinball_proof_of_concept.Properties.Resources.resources
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\obj\Debug\Pinball proof of concept.csproj.GenerateResource.cache
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\obj\Debug\Pinball proof of concept.csproj.CoreCompileInputs.cache
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\obj\Debug\Pinball proof of concept.exe
+D:\05_ESCUELA\02_UASLP\01_SEMESTRES\UASLP 9NO\PROGRA II\Pinball proof of concept\Pinball proof of concept\obj\Debug\Pinball proof of concept.pdb
