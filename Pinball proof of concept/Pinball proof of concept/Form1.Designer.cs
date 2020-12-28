@@ -51,6 +51,9 @@ namespace Pinball_proof_of_concept
             this.objdwn3 = new System.Windows.Forms.PictureBox();
             this.objsid5 = new System.Windows.Forms.PictureBox();
             this.limit = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.pictureBox2 = new System.Windows.Forms.PictureBox();
+            this.pictureBox3 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.paletaizq)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.paletader)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.ball)).BeginInit();
@@ -70,11 +73,16 @@ namespace Pinball_proof_of_concept
             ((System.ComponentModel.ISupportInitialize)(this.objdwn3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.objsid5)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.limit)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             this.SuspendLayout();
             // 
             // paletaizq
             // 
-            this.paletaizq.BackColor = System.Drawing.Color.SpringGreen;
+            this.paletaizq.BackColor = System.Drawing.Color.Transparent;
+            this.paletaizq.BackgroundImage = global::Pinball_proof_of_concept.Properties.Resources.external_content_duckduckgo_com_pngasdasd;
+            this.paletaizq.Image = global::Pinball_proof_of_concept.Properties.Resources.kjhkj;
             this.paletaizq.Location = new System.Drawing.Point(40, 407);
             this.paletaizq.Name = "paletaizq";
             this.paletaizq.Size = new System.Drawing.Size(100, 19);
@@ -84,7 +92,8 @@ namespace Pinball_proof_of_concept
             // 
             // paletader
             // 
-            this.paletader.BackColor = System.Drawing.Color.SpringGreen;
+            this.paletader.BackColor = System.Drawing.Color.Transparent;
+            this.paletader.Image = global::Pinball_proof_of_concept.Properties.Resources.kjhkj;
             this.paletader.Location = new System.Drawing.Point(219, 407);
             this.paletader.Name = "paletader";
             this.paletader.Size = new System.Drawing.Size(100, 19);
@@ -95,9 +104,11 @@ namespace Pinball_proof_of_concept
             // ball
             // 
             this.ball.BackColor = System.Drawing.Color.Linen;
+            this.ball.Image = global::Pinball_proof_of_concept.Properties.Resources.ball;
             this.ball.Location = new System.Drawing.Point(107, 336);
             this.ball.Name = "ball";
             this.ball.Size = new System.Drawing.Size(20, 20);
+            this.ball.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.ball.TabIndex = 2;
             this.ball.TabStop = false;
             // 
@@ -254,18 +265,60 @@ namespace Pinball_proof_of_concept
             // 
             // limit
             // 
+            this.limit.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.limit.Location = new System.Drawing.Point(33, 432);
             this.limit.Name = "limit";
             this.limit.Size = new System.Drawing.Size(293, 26);
             this.limit.TabIndex = 22;
             this.limit.TabStop = false;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox1.BackgroundImage = global::Pinball_proof_of_concept.Properties.Resources.Imagen1;
+            this.pictureBox1.Image = global::Pinball_proof_of_concept.Properties.Resources.ezgif_com_crop;
+            this.pictureBox1.Location = new System.Drawing.Point(233, 90);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(45, 45);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 23;
+            this.pictureBox1.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox2.BackgroundImage = global::Pinball_proof_of_concept.Properties.Resources.Imagen1;
+            this.pictureBox2.Image = global::Pinball_proof_of_concept.Properties.Resources.ezgif_com_crop;
+            this.pictureBox2.Location = new System.Drawing.Point(79, 148);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(45, 45);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 24;
+            this.pictureBox2.TabStop = false;
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.BackColor = System.Drawing.Color.Transparent;
+            this.pictureBox3.BackgroundImage = global::Pinball_proof_of_concept.Properties.Resources.Imagen1;
+            this.pictureBox3.Image = global::Pinball_proof_of_concept.Properties.Resources.ezgif_com_crop;
+            this.pictureBox3.Location = new System.Drawing.Point(204, 211);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(45, 45);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 25;
+            this.pictureBox3.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Brown;
+            this.BackgroundImage = global::Pinball_proof_of_concept.Properties.Resources.fondo;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(361, 450);
+            this.Controls.Add(this.pictureBox3);
+            this.Controls.Add(this.pictureBox2);
+            this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.limit);
             this.Controls.Add(this.objtop3);
             this.Controls.Add(this.objsid6);
@@ -310,6 +363,9 @@ namespace Pinball_proof_of_concept
             ((System.ComponentModel.ISupportInitialize)(this.objdwn3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.objsid5)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.limit)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -338,6 +394,9 @@ namespace Pinball_proof_of_concept
         private System.Windows.Forms.PictureBox objdwn3;
         private System.Windows.Forms.PictureBox objsid5;
         private System.Windows.Forms.PictureBox limit;
+        private System.Windows.Forms.PictureBox pictureBox1;
+        private System.Windows.Forms.PictureBox pictureBox2;
+        private System.Windows.Forms.PictureBox pictureBox3;
     }
 }
 
