@@ -13,7 +13,7 @@ namespace Pinball_proof_of_concept
     public partial class Form1 : Form
     {
         int speed = 5; // integer called speed holding value of 5
-        int bally = 15; // horizontal X speed value for the ball object 
+        int bally = 5; // horizontal X speed value for the ball object 
         int ballx = 5; // vertical Y speed value for the ball object
         int scores = 0; // score for the player
         public Form1()

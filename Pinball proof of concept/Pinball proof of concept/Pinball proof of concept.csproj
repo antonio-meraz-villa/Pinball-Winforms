@@ -86,5 +86,29 @@
   <ItemGroup>
     <None Include="Resources\1586257750_1555616.jpg" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\fondo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ball.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ezgif.com-crop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Imagen1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\external-content.duckduckgo.com.pngasdasd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\external-content.duckduckgo.com.pngasdasd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ezgif.com-crop.pngghj.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kjhkj.png" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
